@@ -1,3 +1,4 @@
 THis is sample file.
-THis is another sample
+THis is another sample.
+This is 3rd sample.
 
