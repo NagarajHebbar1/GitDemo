@@ -1,6 +1,6 @@
 THis is sample file.
 This is something different
-THis is another sample.
+THis is another sample 1.
 This is new.
 THis is great file.
 THis is 4th sample.
